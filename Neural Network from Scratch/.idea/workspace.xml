@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff175081-3f67-45a5-97fb-3424ecde3c01" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Neural Network from Scratch/task/plot.png" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Neural Network from Scratch/task/student.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Neural Network from Scratch/task/test/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Neural Network from Scratch/task/test/tests.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Neural Network from Scratch/task/tests.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2QyH2oTbXKwG3sWELUaFlv12z1v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Educational&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff175081-3f67-45a5-97fb-3424ecde3c01" name="Changes" comment="" />
+      <created>1686318696778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686318696778</updated>
+      <workItem from="1686318700437" duration="1233000" />
+      <workItem from="1686394654612" duration="766000" />
+      <workItem from="1686490936371" duration="18954000" />
+      <workItem from="1686561605112" duration="8135000" />
+      <workItem from="1686578983475" duration="17683000" />
+      <workItem from="1686645376648" duration="55104000" />
+      <workItem from="1686823544517" duration="11785000" />
+      <workItem from="1686913364183" duration="50000" />
+      <workItem from="1687434455606" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Basic_functions.coverage" NAME="Neural Network from Scratch/Basic functions Coverage Results" MODIFIED="1686523719350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Metrics_and_backpropagation.coverage" NAME="Neural Network from Scratch/Metrics and backpropagation Coverage Results" MODIFIED="1686658577552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$student.coverage" NAME="student Coverage Results" MODIFIED="1686837410559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Neural Network from Scratch/task" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Backpropagation_with_two_layers.coverage" NAME="Neural Network from Scratch/Backpropagation with two layers Coverage Results" MODIFIED="1686835760061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Train___visualize.coverage" NAME="Neural Network from Scratch/Train   visualize Coverage Results" MODIFIED="1686778683158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Neural_network_feedforward.coverage" NAME="Neural Network from Scratch/Neural network feedforward Coverage Results" MODIFIED="1686532982163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Train___visualize_with_two_layers.coverage" NAME="Neural Network from Scratch/Train   visualize with two layers Coverage Results" MODIFIED="1686837158040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Neural_Network_from_Scratch$Neural_Network_from_Scratch_Two_layer_neural_network.coverage" NAME="Neural Network from Scratch/Two-layer neural network Coverage Results" MODIFIED="1686826089560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
