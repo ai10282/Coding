@@ -10,4 +10,4 @@ Some of the projects I've worked on:
 8) 3D animation in OpenGL
 ...
 
-                                                                                                        MN
+MN
